@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:background="@color/backgroundHome"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tv_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Selamat Datang"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="16dp"
+        android:layout_alignParentTop="true"/>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_home"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_below="@id/tv_home"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="36dp"
+        app:civ_border_width="3dp"
+        android:src="@drawable/belajar_yuk" />
+    <EditText
+        android:id="@+id/edt_nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nama"
+        android:inputType="textAutoComplete"
+        android:layout_marginTop="30dp"
+        android:layout_below="@id/img_home"/>
+    <EditText
+        android:id="@+id/edt_nis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nis"
+        android:inputType="number"
+        android:layout_marginTop="16dp"
+        android:layout_below="@id/edt_nama"/>
+    <Button
+        android:id="@+id/btn_dash"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edt_nis"
+        android:text="Dashboard"
+        android:onClick="dashboard"
+        android:background="@color/btn"
+        android:layout_marginTop="30dp"/>
+
+</RelativeLayout>

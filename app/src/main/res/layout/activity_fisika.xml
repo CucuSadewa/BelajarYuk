@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    tools:context=".FisikaActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="16dp"
+                    android:text="@string/rumus_fisika1"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="180dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/rumus_f1" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="16dp"
+                    android:text="@string/rumus_fisika2"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="180dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/rumus_f2" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="16dp"
+                    android:text="@string/rumus_fisika3"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="180dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/rumus_f3" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="16dp"
+                    android:text="@string/rumus_fisika4"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="180dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/rumus_f4" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="16dp"
+                    android:text="@string/rumus_fisika5"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="180dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/rumus_f5" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="16dp"
+                    android:text="@string/rumus_fisika6"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="180dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/rumus_f6" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="16dp"
+                    android:text="@string/rumus_fisika7"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="180dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/rumus_f7" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="16dp"
+                    android:text="@string/rumus_fisika8"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="180dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/rumus_f8" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="16dp"
+                    android:text="@string/rumus_fisika9"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="180dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/rumus_f9" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="16dp"
+                    android:text="@string/rumus_fisika10"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="180dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/rumus_f10" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="16dp"
+                    android:text="@string/rumus_fisika11"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="180dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/rumus_f11" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="16dp"
+                    android:text="@string/rumus_fisika12"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="180dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/rumus_f12" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="16dp"
+                    android:text="@string/rumus_fisika13"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="180dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/rumus_f13" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+
+</ScrollView>

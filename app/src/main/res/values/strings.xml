@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Belajar Yuk</string>
+    <string name="rumus_mtk1">Rumus Mencari Nilai Mean Data Tunggal</string>
+    <string name="rumus_mtk2">Rumus Mencari Nilai Mean Data Distirbusi Frekuensi</string>
+    <string name="rumus_mtk3">Rumus Mencari Nilai Mean Gabungan</string>
+    <string name="rumus_mtk4">Rumus Letak Kuartil Data Tunggal</string>
+    <string name="rumus_mtk5">Rumus Letak Kuartil Data Kelompok</string>
+    <string name="rumus_mtk6">Rumus Letak Persentil Data Tunggal</string>
+    <string name="rumus_mtk7">Rumus Letak Persentil Data Kelompok</string>
+    <string name="rumus_mtk8">Rumus Letak Desil Data Tunggal</string>
+    <string name="rumus_mtk9">Rumus Letak Desil Data Kelompok</string>
+    <string name="rumus_mtk10">Rumus Statistika Mencari Nilai Modus dari Data yang belum dikelompokan</string>
+    <string name="rumus_mtk11">Rumus Statistika Mencari Nilai Modus dari Data yang sudah dikelompokkan</string>
+    <string name="rumus_mtk12">Rumus Statistika Mencari Nilai Median dari Data yang belum dikelompokkan</string>
+    <string name="rumus_mtk13">Rumus Statistika Mencari Nilai Median dari Data yang sudah dikelompokkan</string>
+
+    <string name="rumus_fisika1">Hukum Newton I</string>
+    <string name="rumus_fisika2">Hukum Newton II</string>
+    <string name="rumus_fisika3">Hukum Newton III</string>
+    <string name="rumus_fisika4">Rumus Masa Jenis</string>
+    <string name="rumus_fisika5">Rumus Berat Jenis</string>
+    <string name="rumus_fisika6">Rumus Tekanan</string>
+    <string name="rumus_fisika7">Rumus Kecepatan Rata-rata</string>
+    <string name="rumus_fisika8">Rumus Gaya Gesek</string>
+    <string name="rumus_fisika9">Rumus Gerak lurus beraturan</string>
+    <string name="rumus_fisika10">Rumus Gaya Berat</string>
+    <string name="rumus_fisika11">Rumus Energi potensial</string>
+    <string name="rumus_fisika12">Rumus Energi kinetik</string>
+    <string name="rumus_fisika13">Rumus Energi kinetik pegas</string>
+
+
+    <string name="sejarah_android">
+        Sebelum dimiliki oleh Google, Android sendiri adalah sistem operasi yang dikembangkan oleh perusahaan bernama Android, Inc.
+        yang didirikan di Palo Alto, California pada bulan Oktober 2003 oleh Andy Rubin, Rich Miner, Nick Sears, dan Chris White.
+        Perusahaan ini sendiri memang sedari awal sudah didukung secara finansial oleh Google sebelum akhirnya dibeli pada tahun 2005.
+        Walaupun sudah dibeli oleh Google, tapi para pendiri Android, seperti Rubin, Miner dan White tetap bekerja di perusahaan.
+        Akhirnya, pada tahun 2007, dirilislah sistem operasi pertama Android dengan ditandai juga didirikannya Open Handset Allience (OHA)
+        yang tidak lain dan tidak bukan adalah bekerja untuk melakukan pengembangan standar terbuka bagi perangkat seluler.
+        Di tahun 2008, akhirnya dirilislah HTC Dream, HP pertama yang menggunakan sistem operasi Android.
+    </string>
+
+    <string name="tujuan_android">Walaupun sekarang Android telah sukses dan digunakan oleh setiap vendor smartphone untuk menunjang
+        kinerja produknya, tapi ternyata awal mulanya Android dikembangkan untuk kamera digital lho. Namun,
+        sadar jika pasar untuk perangkat tersebut tidak telalu besar, akhirnya tujuannya pun dialihkan walaupun pada akhirnya ada kamera
+        digital juga yang menggunakan sistem operasi ini.
+        Setelah itu, Android akhirnya dibuat untuk menyaingi Symbian dan Windows Mobile. Namun, agar informasi tentang
+        sistem operasi ini tidak bocor ke para rivalnya, pengembangan sistem operasi ini dilakukan secara diam-diam,
+        walaupun para pengembangnya sendiri adalah pakar-pakar teknologi yang berpengalaman.
+    </string>
+
+    <string name="nasib_pendiri_android">
+        Walaupun para pendiri Android akhirnya ikut bekerja ketika Android dibeli oleh Google,
+        namun akhirnya mereka mengundurkan diri dari perusahaan. Lalu bagaimana nasib mereka?
+
+        Rich Miner sendiri memang tidak sepenuhnya hengkang dari tim Android beberapa waktu setelah perusahaan Android Inc.
+        dibeli oleh Google, dia kahirnya bergabung dengna tim Google Ventures di bulan Maret 2009 dan berkantor di Cambridge, MA.
+
+        Andy Rubin sendiri yang mendirikan Android Inc. akhirnya hengkang dari Google setelah menduduki beberapa posisi penting,
+        seperti Senior Vice President of Mobile and Digital Content, dan mengepalai proyek barunya Google. Pada Oktober 2014,
+        akhirnya dia hengkang dan pada November 2017, Rubin memperkenalkan perusahaan smartphone-nya yang bernama Essential.
+    </string>
+
+</resources>
